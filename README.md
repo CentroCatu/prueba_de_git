@@ -11,9 +11,15 @@
     Rocío
     Stefi
     Williams
-    Ale
+    El Ale Panza
 
 
 
 ## Los menos facheron son:
 * nadie
+
+
+## Integrantes temporales:
+* Carlitos
+* Juancito
+* Pepito
