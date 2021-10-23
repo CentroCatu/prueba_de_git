@@ -11,7 +11,7 @@
     Rocío
     Stefi
     Williams
-    Don AlePan
+    El Don Ale Panza
 
 
 
@@ -22,3 +22,8 @@
 ## Objetivos del taller:
  * hacerse una cuenta de git para que puedan mostrar que tienen experiencia
  
+## Integrantes temporales:
+* Carlitos
+* Juancito
+* Pepito
+
