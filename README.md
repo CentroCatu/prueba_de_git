@@ -1,5 +1,4 @@
-# Hola gente del Catu
-## Los asistentes al taller son:
+## Los más facheros del taller son:
 
 * Ailén
 * Anderson
@@ -13,3 +12,7 @@
 * Stefi
 * Williams
 * Ale
+
+
+## Los menos facheron son:
+* nadie
