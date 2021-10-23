@@ -11,9 +11,14 @@
     Rocío
     Stefi
     Williams
-    Ale
+    Don AlePan
 
 
 
 ## Los menos facheron son:
 * nadie
+
+
+## Objetivos del taller:
+ * hacerse una cuenta de git para que puedan mostrar que tienen experiencia
+ 
