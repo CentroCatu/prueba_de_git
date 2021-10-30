@@ -1,4 +1,4 @@
-## Los más facheros del taller son 2021:
+## Los más facheros del taller son:
 
     Ailén
     Anderson
@@ -16,7 +16,7 @@ karen
 
 
 
-## Los menos facheron son:2021
+## Los menos facheron son:
 * nadie
 
 
@@ -32,4 +32,5 @@ karen
 
 ## Taller de practica Comit y Mergeado
 ## Ejercicio: Todos deben realizar un cambio. 
+## Aplicando cambios
 
