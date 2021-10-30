@@ -33,4 +33,5 @@ karen
 ## Taller de practica Comit y Mergeado
 ## Ejercicio: Todos deben realizar un cambio. 
 ## Aplicando cambios
+escribiendo cambios
 
