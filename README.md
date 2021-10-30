@@ -14,8 +14,7 @@ los mas facheros de catu 2021
 
 
 
-## Los menos facheron son:
-* nadie
+## Los menos facheron catu 2021 : nadie xd
 
 
 ## Objetivos del taller:
