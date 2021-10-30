@@ -34,3 +34,4 @@ karen
 ## Ejercicio: Todos deben realizar un cambio. 
 ## Aplicando cambios
 
+Generando conflicto"
