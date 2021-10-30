@@ -39,4 +39,7 @@ karen
 ## Horarios del taller
 
 * Sábados de 10.30 hs a 12.30hs.
-* aprendiendo git
+
+aprendiendo git en 
+Rosario 
+
