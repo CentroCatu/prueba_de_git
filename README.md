@@ -1,4 +1,5 @@
-los mas facheros de catu 2021
+## Los más facheros del taller son:
+
     Ailén
     Anderson
     Fede
@@ -11,10 +12,12 @@ los mas facheros de catu 2021
     Stefi
     Williams
     El Don Ale Panza
+karen 
 
 
 
-## Los menos facheron catu 2021 : nadie xd
+## Los menos facheron son:
+* nadie
 
 
 ## Objetivos del taller:
@@ -29,5 +32,4 @@ los mas facheros de catu 2021
 
 ## Taller de practica Comit y Mergeado
 ## Ejercicio: Todos deben realizar un cambio. 
-soy el mejor
-##Agunte catu
+
