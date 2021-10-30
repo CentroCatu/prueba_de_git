@@ -35,3 +35,7 @@ karen
 ## Ejercicio: Todos deben realizar un cambio. 
 ## Aplicando cambios
 
+## Horarios del taller
+
+* Sábados de 10.30 hs a 12.30hs.
+
