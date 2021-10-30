@@ -22,7 +22,7 @@ karen
 
 ## Objetivos del taller:
  * hacerse una cuenta de git para que puedan mostrar que tienen experiencia
- 
+ * crea una rama
 ## Integrantes temporales:
 * Carlitos
 * Juancito
