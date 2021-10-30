@@ -1,4 +1,4 @@
-## Los más facheros del taller son:
+## Los más facheros del taller son 2021:
 
     Ailén
     Anderson
@@ -16,7 +16,7 @@ karen
 
 
 
-## Los menos facheron son:
+## Los menos facheron son:2021
 * nadie
 
 
