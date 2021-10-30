@@ -30,5 +30,5 @@
 
 
 ## Taller de practica Comit y Mergeado
-
+## Ejercicio: Todos deben realizar un cambio. 
 
