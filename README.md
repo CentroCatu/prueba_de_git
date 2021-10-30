@@ -17,6 +17,7 @@
 
 ## Los menos facheron son:
 * nadie
+* tambien ninguno
 
 
 ## Objetivos del taller:
