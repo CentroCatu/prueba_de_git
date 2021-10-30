@@ -28,7 +28,7 @@ karen
 * Juancito
 * Pepito
 * Ramoncito
-
+* juancarlo
 
 ## Taller de practica Comit y Mergeado
 ## Ejercicio: Todos deben realizar un cambio. 
