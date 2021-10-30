@@ -34,9 +34,12 @@ karen
 ## Taller de practica Comit y Mergeado
 ## Ejercicio: Todos deben realizar un cambio. 
 ## Aplicando cambios
-##nose que poner aca
+##nose que poner acafhs
 
 ## Horarios del taller
 
 * Sábados de 10.30 hs a 12.30hs.
+
+aprendiendo git en 
 Rosario 
+
