@@ -1,4 +1,4 @@
-## Los más facheros del taller son:
+## Los más facheros del taller son:2021
 
     Ailén
     Anderson
@@ -6,7 +6,7 @@
     Florencia
     Giuliana
     Jessi
-    Maxi
+l    Maximiliano leyba
     Miguel
     Rocío
     Stefi
@@ -16,8 +16,7 @@ karen
 
 
 
-## Los menos facheron son:
-* nadie
+## Los menos facheron son 2021: nadie xd
 
 
 ## Objetivos del taller:
@@ -26,6 +25,7 @@ karen
 ## Integrantes temporales:
 * Carlitos
 * Juancito
+*  maxicanalla300
 * Pepito
 * Ramoncito
 * juancarlo
