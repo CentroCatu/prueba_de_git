@@ -17,7 +17,6 @@
 
 ## Los menos facheron son:
 * nadie
-* tambien ninguno
 
 
 ## Objetivos del taller:
@@ -28,4 +27,8 @@
 * Juancito
 * Pepito
 * Ramoncito
+
+
+## Taller de practica Comit y Mergeado
+
 
