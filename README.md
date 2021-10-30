@@ -21,7 +21,7 @@ karen
 
 ## Objetivos del taller:
  * hacerse una cuenta de git para que puedan mostrar que tienen experiencia
- 
+ * crea una rama
 ## Integrantes temporales:
 * Carlitos
 * Juancito
@@ -29,6 +29,7 @@ karen
 * Pepito
 * Ramoncito
 * juancarlo
+* jhon
 
 ## Taller de practica Comit y Mergeado
 ## Ejercicio: Todos deben realizar un cambio. 
