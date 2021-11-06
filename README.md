@@ -47,6 +47,6 @@ Rosario
 ### titulo 2
 #### titulo 3 ####
 ##### titulo 4 #####
-# hola 1 #
-# hola 2 #
-# hola 3 #
+* hola 1
+* hola 2
+* hola 3 
