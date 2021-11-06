@@ -23,7 +23,7 @@ var cantidadDePerros = 4
  **negrita**
  
  ![alt text](https://cliparting.com/wp-content/uploads/2018/03/cool-pictures-2018-26.jpg)
-  assitente de taller son git
+  assitente de taller son git seccion 2021
   * anselmo
   * ale panza
   * ailen 
