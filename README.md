@@ -1,4 +1,4 @@
-## Los más facheros del taller son:2021
+## Los más facheros del taller son:2021 y 2022
 
     Ailén
     Anderson
@@ -16,20 +16,22 @@ karen
 
 
 
-## Los menos facheron son 2021: nadie xd
+## Los menos facheron son 2021 y 2022
 
 
 ## Objetivos del taller:
  * hacerse una cuenta de git para que puedan mostrar que tienen experiencia
  * crea una rama
-## Integrantes temporales:
-* Carlitos
+## Integrantes temporale 2021
+* anselmo
 * Juancito
 *  maxicanalla300
-* Pepito
-* Ramoncito
-* juancarlo
-* jhon
+*  
+* 
+* 
+* 
+* 
+
 
 ## Taller de practica Comit y Mergeado
 ## Ejercicio: Todos deben realizar un cambio. 
