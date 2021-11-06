@@ -1,3 +1,31 @@
+# Título 1
+
+## Título 2
+
+### Título 3
+
+
+#### Título 4
+
+##### Título 5
+
+
+* Item 1
+* Item 2
+* item 3
+
+
+
+```
+var cantidadDePerros = 4
+// algo de código
+```
+ **negrita**
+ 
+ ![alt text](https://cliparting.com/wp-content/uploads/2018/03/cool-pictures-2018-26.jpg)
+
+
+
 ## Los más facheros del taller son:2021 y 2022
 
     Ailén
