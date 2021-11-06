@@ -86,6 +86,10 @@ diego diaz
 
 
 ## Taller de practica Comit y Mergeado
+## Definition of mergear:
+* Une dos o más historias de desarrollo juntas.
+* Incorpora cambios de las confirmaciones nombradas a la rama actual. 
+
 ## Ejercicio: Todos deben realizar un cambio. 
 ## Aplicando cambios
 ##nose que poner acafhs
