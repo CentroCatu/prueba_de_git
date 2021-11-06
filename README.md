@@ -23,6 +23,21 @@ var cantidadDePerros = 4
  **negrita**
  
  ![alt text](https://cliparting.com/wp-content/uploads/2018/03/cool-pictures-2018-26.jpg)
+  assitente de taller son git
+  * anselmo
+  * ale panza
+  * ailen 
+  * anderson
+*florencia
+fede
+jessi
+maximiliano leyba
+miguel
+rocio
+stefi
+willaws
+anderson
+karen
 
 
 
