@@ -14,7 +14,13 @@
 * Item 2
 * item 3
 
-
+# Qué es un Pull Request ? Los pull requests son la forma de contribuir a un proyecto grupal o de código abierto. 
+### Se puede contribuir de distintas manera: 
+* Diseñando.
+* Escribiendo.
+* Organizando.
+* Ayudando a otros.
+* Elaborando código.
 
 ```
 var cantidadDePerros = 4
