@@ -25,7 +25,7 @@ Los pull requests son la forma de contribuir a un proyecto grupal o de código a
 
 # Qué es hacer commit ?
 Hacer un commit o como se lo conoce commitear, es guardar los cambios en el área de preparación (Staging area) poniendo una breve descripción del cambio que se quiere implementar, cada vez que realizamos un cambio se crea una nueva versión del proyecto en el repositorio local.
-
+# Definición de conflicto: Se genera cuando hay dos cambios diferentes en una misma sección.
 ```
 var cantidadDePerros = 4
 // algo de código
