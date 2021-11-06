@@ -28,6 +28,8 @@ var cantidadDePerros = 4
 ```
  **negrita**
  
+ # IMAGENES DE PRUEBA
+ 
  <img src= "https://cliparting.com/wp-content/uploads/2018/03/cool-pictures-2018-26.jpg" alt="imagen rara :v " width="240" height="150">
  
  <img src="https://gcdn.lanetaneta.com/wp-content/uploads/2020/11/1605337943_%C2%BFQue-le-depara-el-futuro-a-Dabi-ahora-780x470.jpeg" alt="dabi" width="240" height="150">
