@@ -22,7 +22,8 @@ karen
 ## Objetivos del taller:
  * hacerse una cuenta de git para que puedan mostrar que tienen experiencia
  * crea una rama
-## Integrantes temporale 2021
+## Integrantes temporale 2021 y 2022
+diego diaz
 * anselmo
 * ale  panza
 *  maxicanalla300
