@@ -24,9 +24,9 @@ karen
  * crea una rama
 ## Integrantes temporale 2021
 * anselmo
-* Juancito
+* ale  panza
 *  maxicanalla300
-*  
+* 
 * 
 * 
 * 
@@ -43,5 +43,5 @@ karen
 * Sábados de 10.30 hs a 12.30hs.
 
 aprendiendo git en 
-Rosario 
+Rosario central...
 
