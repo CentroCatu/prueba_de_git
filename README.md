@@ -59,8 +59,6 @@ karen
 
 
 
-## Los menos facheron son 2021 y 2022
-
 
 ## Objetivos del taller:
  * hacerse una cuenta de git para que puedan mostrar que tienen experiencia
