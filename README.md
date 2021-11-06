@@ -34,7 +34,6 @@ var cantidadDePerros = 4
  
  <img src="https://gcdn.lanetaneta.com/wp-content/uploads/2020/11/1605337943_%C2%BFQue-le-depara-el-futuro-a-Dabi-ahora-780x470.jpeg" alt="dabi" width="240" height="150">
  
- <img src= "https://areajugones.sport.es/wp-content/uploads/2020/08/one-piece-final-2025.jpg" alt="One Piece" width= "300" height= "200">
  
   assitente de taller son git
   * anselmo
