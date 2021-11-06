@@ -67,12 +67,6 @@ diego diaz
 NOMBRE
 git-merge: une dos o más historias de desarrollo juntas
 
-SINOPSIS
-git merge [-n] [--stat] [--no-commit] [--squash] [- [no-] edit]
-	[--no-verificar] [-s <strategy>] [-X <strategy-option>] [-S [<keyid>]]
-	[- [no-] permitir historias no relacionadas]
-	[- [no-] rerere-autoupdate] [-m <msg>] [-F <archivo>] [<commit>…]
-git merge (--continuar | --abort | --quit)
 DESCRIPCIÓN
 Incorpora cambios de las confirmaciones nombradas (desde el momento en que sus historiales divergieron de la rama actual) a la rama actual. Este comando lo usa git pull para incorporar cambios de otro repositorio y se puede usar manualmente para fusionar cambios de una rama a otra.
 
