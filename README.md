@@ -63,6 +63,34 @@ diego diaz
 
 
 ## Taller de practica Comit y Mergeado
+## Definition of mergear:
+NOMBRE
+git-merge: une dos o más historias de desarrollo juntas
+
+SINOPSIS
+git merge [-n] [--stat] [--no-commit] [--squash] [- [no-] edit]
+	[--no-verificar] [-s <strategy>] [-X <strategy-option>] [-S [<keyid>]]
+	[- [no-] permitir historias no relacionadas]
+	[- [no-] rerere-autoupdate] [-m <msg>] [-F <archivo>] [<commit>…]
+git merge (--continuar | --abort | --quit)
+DESCRIPCIÓN
+Incorpora cambios de las confirmaciones nombradas (desde el momento en que sus historiales divergieron de la rama actual) a la rama actual. Este comando lo usa git pull para incorporar cambios de otro repositorio y se puede usar manualmente para fusionar cambios de una rama a otra.
+
+Suponga que existe el siguiente historial y que la rama actual es " master":
+
+	  Tema A --- B --- C
+	 /
+    D --- E --- F --- G maestro
+Luego, " git merge topic" reproducirá los cambios realizados en la topicrama desde que divergió de master(es decir, E) hasta su confirmación actual ( C) mastery registrará el resultado en una nueva confirmación junto con los nombres de las dos confirmaciones principales y un mensaje de registro. del usuario que describe los cambios.
+
+	  Tema A --- B --- C
+	 / \
+    D --- E --- F --- G --- H maestro
+La segunda sintaxis (" git merge --abort") solo se puede ejecutar después de que la combinación haya dado lugar a conflictos. git merge --abort abortará el proceso de fusión e intentará reconstruir el estado previo a la fusión. Sin embargo, si hubo cambios no confirmados cuando comenzó la fusión (y especialmente si esos cambios se modificaron aún más después de que se inició la fusión), git merge --abort en algunos casos no podrá reconstruir los cambios originales (previos a la fusión). Por lo tanto:
+
+Advertencia : No se recomienda ejecutar git merge con cambios no comprometidos no triviales: si bien es posible, puede dejarlo en un estado del que es difícil retroceder en caso de un conflicto.
+
+La tercera sintaxis (" git merge --continue") solo se puede ejecutar después de que la combinación haya dado lugar a conflictos.
 ## Ejercicio: Todos deben realizar un cambio. 
 ## Aplicando cambios
 ##nose que poner acafhs
