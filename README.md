@@ -49,16 +49,16 @@ var cantidadDePerros = 4
   * ale panza
   * ailen 
   * anderson
-*florencia
-fede
-jessi
-maximiliano leyba
-miguel
-rocio
-stefi
-willaws
-anderson
-karen
+  * florencia
+  * fede
+  * jessi
+  * maximiliano leyba
+  * miguel
+  * rocio
+  * stefi
+  * willaws
+  * anderson
+  * karen
 
 
 
