@@ -121,4 +121,7 @@ Rosario central...
 * Arpobar un Pull request de otra persona
 * Cuando hayan aprobado mi Pull Request, mergearlo
 
+Tips para github 
+* los botones en verde casi siempre nos llevan a donde necesitamos ir.
+
 
