@@ -120,8 +120,8 @@ Rosario central...
 * Hacer un Pull Request
 * Arpobar un Pull request de otra persona
 * Cuando hayan aprobado mi Pull Request, mergearlo
-## mi rama ##
-*precalentamiento1 
-*karen aguilar
-
-
+## maxi*
+* mi rama*
+* sucursal rosario
+* ¿Qué es un pull request?
+Una Pull Request es la acción de validar un código que se va a mergear de una rama a otra. En este proceso de validación pueden entrar los factores que queramos: Builds (validaciones automáticas), asignación de código a tareas, validaciones manuales por parte del equipo, despliegues, etc.
