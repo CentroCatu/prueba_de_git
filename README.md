@@ -38,7 +38,7 @@ var cantidadDePerros = 4
  <img src= "https://cliparting.com/wp-content/uploads/2018/03/cool-pictures-2018-26.jpg" alt="imagen rara :v " width="240" height="150">
  
  <img src="https://gcdn.lanetaneta.com/wp-content/uploads/2020/11/1605337943_%C2%BFQue-le-depara-el-futuro-a-Dabi-ahora-780x470.jpeg" alt="dabi" width="240" height="150">
- 
+ < img ser = " https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg "  alt = "imagen de git: v" width = "240" height=  "150"          
  
   assitente de taller son git
 
