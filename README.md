@@ -110,8 +110,7 @@ diego diaz
 * Sábados de 10.30 hs a 12.30hs.
 
 aprendiendo git en 
-Rosario central...
-
+Rosario central.... Realizando un cambio / ejercicio 2
 
 # Precalentamiento
 * Crear una branch (rama)
