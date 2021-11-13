@@ -109,7 +109,7 @@ diego diaz
 
 * Sábados de 10.30 hs a 12.30hs.
 
-aprendiendo git en 
+aprendiendo con profe ale panza  mejor canalla mundo
 Rosario central mejor equipo de argentina mundo entero 
 
 # Precalentamiento
