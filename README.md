@@ -119,9 +119,9 @@ Rosario central.... Realizando un cambio / ejercicio 2
 * Hacer un Pull Request
 * Arpobar un Pull request de otra persona
 * Cuando hayan aprobado mi Pull Request, mergearlo
-## mi rama ##
-*precalentamiento1 
-*karen aguilar
-
-#Quienes son los mejores:
-##Anselmo Valenzuela.
+## mi rama maxi
+* mi sucursal rosario central mejor club
+* readme 
+* el cambio  :La palabra cambio denota la acción o transición de un estado inicial a otro diferente, según se refiera a un individuo, objeto o situación. También puede referirse a la acción de sustituir o reemplazar algo
+* Una sucursal es una empresa de comercio o industrial que depende de una casa matriz y puede estar ubicada dentro del mismo país o fuera de él. ... Por otro lado, las sucursales son utilizadas para abrir nuevos mercados en otras regiones de un mismo país o para incursionar en los mercados internacionales
+* Una Pull Request es la acción de validar un código que se va a mergear de una rama a otra. En este proceso de validación pueden entrar los factores que queramos: Builds (validaciones automáticas), asignación de código a tareas, validaciones manuales por parte del equipo, despliegues, etc.
