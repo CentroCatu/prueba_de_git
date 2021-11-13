@@ -110,7 +110,7 @@ diego diaz
 * Sábados de 10.30 hs a 12.30hs.
 
 aprendiendo git en 
-Rosario central.... Realizando un cambio / ejercicio 2
+Rosario central mejor equipo de argentina mundo entero 
 
 # Precalentamiento
 * Crear una branch (rama)
