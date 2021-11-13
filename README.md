@@ -101,3 +101,13 @@ diego diaz
 aprendiendo git en 
 Rosario central...
 
+
+# Precalentamiento
+* Crear una branch (rama)
+* Hacer un cambio al archivo README.md
+* Comitear el cambio
+* Hacer un Pull Request
+* Arpobar un Pull request de otra persona
+* Cuando hayan aprobado mi Pull Request, mergearlo
+
+
