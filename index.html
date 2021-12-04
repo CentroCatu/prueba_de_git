@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey From</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <h1 id="title">COMO VAS A SER ESTAFADO</h1>
+    <p id="description">AQUI TE EXPLICARÉ COMO TE ROBAN</p>
+
+    <p>
+      Brevemente te contaré que todos estos datos que aparecen en el formulario
+      jamás te serán pedidos por nadie del banco, dado que ellos ya tienen estos
+      datos.</p>
+      <p> Jamás hables por teléfono con desconocidos que solicitan estos
+      datos, tampoco los envies por mail o los cargues tus datos en páginas o enlaces que
+      parecen ser de tu banco. </p>
+      <p></p> Revisa la dirección de mail de quien envia estas
+      trampas y verás que no son del banco por mas que tengan una foto del logo
+      del banco, tambien la página a la que te pueden llevar parece del banco
+      pero si revisas la dirección no lo es, es solo una vil trampa para
+      robarte.</p>
+    <p>
+      Mi página se ha creado con el fin de alertar a la gente para evitar
+      estafas bancarias que son tan comunes en nuestros días y por
+      desconocimiento de la gente ocurren, espero les sea de ayuda, Saludos.
+    </p>
+
+    <h2>SOLO TE PIDO QUE ME CALIFIQUES Y DEJES TU COMENTARIO...EL RESTO NO COMPLETAR CON DATOS</h2>
+
+    <form id="survey-form">
+      <div class="form-group">
+        <label for="name" id="name-label">NOMBRE</label>
+        <input
+          type="text"
+          placeholder="Ingrese nombre completo"
+          id="name"
+          class="imputs"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="email" id="email-label">EMAIL</label>
+        <input
+          type="email"
+          placeholder="Ingrese su email"
+          id="email"
+          class="imputs"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="text" id="text-label">NUMERO DE TARJETA DE CREDITO</label>
+        <input
+          type="text"
+          placeholder="Ingrese el número de la tarjeta"
+          id="text"
+          class="imputs"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="date" id="date-label">VENCIMIENTO DE LA TARJETA</label>
+        <input
+          type="date"
+          placeholder="Fecha de vencimiento"
+          id="date"
+          class="imputs"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="text" id="text-label">CODIGO DE SEGURIDAD</label>
+        <input
+          type="text"
+          placeholder="CVC"
+          id="text"
+          class="imputs"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="number" id="number-label">EDAD</label>
+        <input
+          type="number"
+          placeholder="Ingrese su edad"
+          min="18"
+          max="99"
+          id="number"
+          class="imputs"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="dropdown">Elija el banco de su tarjeta</label>
+        <select name="dropdown" id="dropdown">
+          <option value="" selected disabled>Ninguno de estos bancos</option>
+          <option value="Banco Galicia">Banco Galicia</option>
+          <option value="Banco Santander Rio">Banco Santander Rio</option>
+          <option value="Banco Frances">Banco Frances</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <p>
+          Seleccione como quiere ser contactado (puede ser mas de una opción)
+        </p>
+        <label for="Personalmente"
+          ><input
+            name="checkbox"
+            type="checkbox"
+            value="Personalmente"
+          />Personalmente</label
+        >
+        <label for="Teléfono"
+          ><input
+            name="checkbox"
+            type="checkbox"
+            value="Teléfono"
+          />Teléfono</label
+        >
+        <label for="Email"
+          ><input name="checkbox" type="checkbox" value="Email" />Email</label
+        >
+        <label for="Whatsapp"
+          ><input
+            name="checkbox"
+            type="checkbox"
+            value="Whatsapp"
+          />Whatsapp</label
+        >
+      </div>
+
+      <div class="form-group inputs-radio-checkbox">
+        <p>Califique nuestra atención</p>
+        <label for="radio"
+          ><input type="radio" name="radio" value="Excelente" />Excelente</label
+        >
+        <label for="radio"
+          ><input type="radio" name="radio" value="Buena" />Buena</label
+        >
+        <label for="radio"
+          ><input type="radio" name="radio" value="Regular" />Regular</label
+        >
+        <label for="radio"
+          ><input type="radio" name="radio" value="Mala" />Mala
+        </label>
+      </div>
+
+      <div class="form-group inputs-radio-checkbox">
+        <textarea name="Comentarios" id="" cols="30" rows="10" required>
+Dejanos tu comentario</textarea
+        >
+      </div>
+
+      <div class="form-group">
+        <button type="submit" id="submit">Enviar</button>
+      </div>
+    </form>
+  </body>
+</html>
