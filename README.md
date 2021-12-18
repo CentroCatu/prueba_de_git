@@ -18,7 +18,7 @@
 
 ## Descargar el repositorio en la compu
 Se puede ver el código en Github (o sea en la web) y también se puede bajar el código a la compu.
-A bajar el código a la compu, o sea bajar el repositorio, se le llama `clonar el repositorio`
+A bajar el código a la compu, o sea bajar el repositorio, se le llama **clonar el repositorio**
 
 En la consola:
 
@@ -61,12 +61,13 @@ La programadora cambia el código de su rama para agregar la nueva funcionalidad
 
 ## El tester prueba el cambio
 El tester tiene que probar que la nueva funcionalidad (el saludo de cumpleaños) ande bien.
-*  Primero se fija en la sección de pull requests en github cual es el pedido de integración que hizo la programadora. Lee la descripción y se fija el nombre de la rama que creo el programador.
+*  Primero se fija en la sección de **pull requests** en github cual es el pedido de integración que hizo la programadora. Lee la descripción y **se fija el nombre de la rama que creo el programador**.
 
 * Para probar el cambio en su compu, el tester tiene que bajarse el código de esa rama a su compu. 
-* Trae todas las ramas nuevas a su compu. (En la consola) `git fetch`
+* Si no tiene clonado el repositorio hace un git clone (En la consola) `git clone laDireccionDelRepoQueQuieroBajar` y se mete adentro de la carpeta que se acaba de clonar `cd laCarpetaClonada`
+* Trae todas las ramas nuevas a su compu.  `git fetch`
 * Después se mueve a la rama que creó la programadora `git checkout laRamaQueCreoLaProgramadora`
-* Por las dudas se trae los últimos cambios `git pull origin laRamaQueCreoLaProgramadora`
+* Por las dudas se trae los últimos cambios de esa rama `git pull origin laRamaQueCreoLaProgramadora`
 * Con esto el tester ya puede probar los cambios en su computadora (se le llama probar localmente)
 
 ## El tester encuentra un problema
@@ -78,6 +79,7 @@ Tiene que ir a Github y describir que es lo que anda mal y pedir que se arregle 
 
 ## La programadora arregla el problema
 
+La programadora arregla el problema y sube los cambios a la rama
 ## El tester verifica que ande todo bien
 Una vez que la programadora hace los cambios para arreglar el problema el tester tiene que verificar de nuevo que ande todo bien
 * Para ir a la rama
