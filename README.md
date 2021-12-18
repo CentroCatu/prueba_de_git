@@ -1,3 +1,5 @@
+![Tux, the Linux mascot](
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png)
 # Git
 
 **Git** : una herramienta para guardar el código de un proyecto, manejar diferentes versiones y colaborar con un equipo.
