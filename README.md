@@ -89,7 +89,7 @@ Una vez que la programadora hace los cambios para arreglar el problema el tester
 * Para traer los últimos cambios
 `git pull origin laRamaQueCreoLaProgramadora`
 * Probar la página y asegurarse que ande todo bien
-## El tester aprueva el cambio
+## El tester aprueba el cambio
 Una vez que anda todo bien se aprueba el cambio en el Pull Request en Github
 
 ## El líder integra el cambio a la rama principal
