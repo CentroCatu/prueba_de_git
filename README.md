@@ -10,7 +10,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git
 
 
 ## Como manejar la consola
-`pwd` : para saber en qué carpeta estoy
+`pwd` : para saber en que carpeta estoy
 
 `ls` : para saber que tiene adentro la carpeta donde estoy parado (ele minúscula, ese)
 
