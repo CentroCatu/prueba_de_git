@@ -30,8 +30,7 @@ En la consola:
 ## Algunas definiciones
 
 **Rama (Branch)** :
-
-Una rama (en inglés branch) es una versión del código. Se crea una rama generalmente para poder trabajar en el código sin que otra persona cambie nada de nuestra rama.
+Una rama (en inglés branch) es una versión del código. Se crea una rama generalmente para poder traba de nuestra rama.
 La rama principal generalmente se llama `main` (significa principal)
 
 **Main**: 
