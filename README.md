@@ -96,8 +96,3 @@ Una vez que el cambio está aprobado por el tester el líder del equipo hace el 
 
 ## Se aplica el cambio al sitio web y los usuarios ven el cambio
 Después se suben esos cambios a el sitio web y los usuarios ven un mensaje de feliz cumpleaños cuando es la fecha correcta
-
-
-
-
-
