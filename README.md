@@ -14,7 +14,7 @@ https://git-scm.com/images/logos/logomark-orange@2x.png)
 
 `ls` : para saber que tiene adentro la carpeta donde estoy parado (ele minúscula, ese)
 
-`cd fotos` : para entrar a la carpeta fotos
+`cd fotos` : para entrar a la carpeta fotos 
 
 `cd .. ` : para salir de la carpeta donde estoy parado
 
@@ -96,3 +96,5 @@ Una vez que el cambio está aprobado por el tester el líder del equipo hace el 
 
 ## Se aplica el cambio al sitio web y los usuarios ven el cambio
 Después se suben esos cambios a el sitio web y los usuarios ven un mensaje de feliz cumpleaños cuando es la fecha correcta
+
+Prueba en catu testing. 
